@@ -3,8 +3,8 @@
 | 제목 | 1회 | 2회 | 3회 | 4회 | 5회 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 문제 | 🟥 | 🟧 | 🟨 | 🟩 | 🟦 |
-| [1로 만들기](https://www.acmicpc.net/problem/1463) | 🟥
-| [2xn타일링](https://www.acmicpc.net/problem/11726) | 🟥 
+| [**1로 만들기**](https://www.acmicpc.net/problem/1463) | 🟥 | 🟧 |
+| [2xn타일링](https://www.acmicpc.net/problem/11726) | 🟥 | 🟧 |
 | [2xn타일링2](https://www.acmicpc.net/problem/11727) |
 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) |
 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
@@ -26,7 +26,7 @@
 | [카드 구매하기](https://www.acmicpc.net/problem/11052) |
 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) |
 | [좌표 정렬하기2](https://www.acmicpc.net/problem/11651) |
-| [나이순 정렬](https://www.acmicpc.net/problem/10814) |
+| [나이순 정렬](https://www.acmicpc.net/problem/10814) | 🟥 | 🟧 | 🟨 |
 | [국영수](https://www.acmicpc.net/problem/10825) |
 | [수 정렬하기3](https://www.acmicpc.net/problem/10989) |
 | [카드](https://www.acmicpc.net/problem/11652) |
