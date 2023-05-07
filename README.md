@@ -71,4 +71,8 @@
 | [NBA 농구](https://www.acmicpc.net/problem/2852) |
 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | | | |
 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | | |
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | 🟧 |
+| [바이러스](https://www.acmicpc.net/problem/2606) | 🟥 | 🟧 |
+| [미로 탐색](https://www.acmicpc.net/problem/2178) | 🟥 | 🟧 |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) |  🟥 | 🟧 |
 
