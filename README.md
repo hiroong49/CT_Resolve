@@ -5,7 +5,7 @@
 | 문제 | 🟥 | 🟧 | 🟨 | 🟩 | 🟦 |
 | [**1로 만들기**](https://www.acmicpc.net/problem/1463) | 🟥 | 🟧 |
 | [2xn타일링](https://www.acmicpc.net/problem/11726) | 🟥 | 🟧 |
-| [2xn타일링2](https://www.acmicpc.net/problem/11727) |
+| [2xn타일링2](https://www.acmicpc.net/problem/11727) | 🟥 | 🟧 |
 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) |
 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
 | [오르막 수](https://www.acmicpc.net/problem/11057) |
@@ -27,7 +27,7 @@
 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) |
 | [좌표 정렬하기2](https://www.acmicpc.net/problem/11651) |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | 🟥 | 🟧 | 🟨 |
-| [국영수](https://www.acmicpc.net/problem/10825) |
+| [**국영수**](https://www.acmicpc.net/problem/10825) | 🟥 | 🟧 |
 | [수 정렬하기3](https://www.acmicpc.net/problem/10989) |
 | [카드](https://www.acmicpc.net/problem/11652) |
 | [K번째 수](https://www.acmicpc.net/problem/11004) |
@@ -75,4 +75,6 @@
 | [바이러스](https://www.acmicpc.net/problem/2606) | 🟥 | 🟧 |
 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 🟥 | 🟧 |
 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |  🟥 | 🟧 |
+| [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🟥 |
+| [수 찾기](https://www.acmicpc.net/problem/1920) | 🟥 |
 
