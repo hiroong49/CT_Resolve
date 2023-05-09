@@ -6,8 +6,8 @@
 | [**1로 만들기**](https://www.acmicpc.net/problem/1463) | 🟥 | 🟧 |
 | [2xn타일링](https://www.acmicpc.net/problem/11726) | 🟥 | 🟧 |
 | [2xn타일링2](https://www.acmicpc.net/problem/11727) | 🟥 | 🟧 |
-| [1,2,3 더하기](https://www.acmicpc.net/problem/9095) |
-| [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
+| [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | 🟥 | 🟧 |
+| [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | 🟥 | 🟧 |
 | [오르막 수](https://www.acmicpc.net/problem/11057) |
 | [이친수](https://www.acmicpc.net/problem/2193) |
 | [스티커](https://www.acmicpc.net/problem/9465) |
