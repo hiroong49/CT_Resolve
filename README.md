@@ -7,7 +7,7 @@
 | [2xn타일링](https://www.acmicpc.net/problem/11726) | 🟥 | 🟧 |
 | [2xn타일링2](https://www.acmicpc.net/problem/11727) | 🟥 | 🟧 |
 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | 🟥 | 🟧 |
-| [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | 🟥 | 🟧 |
+| [**쉬운 계단 수**](https://www.acmicpc.net/problem/10844) | 🟥 | 🟧 |
 | [오르막 수](https://www.acmicpc.net/problem/11057) |
 | [이친수](https://www.acmicpc.net/problem/2193) |
 | [스티커](https://www.acmicpc.net/problem/9465) |
@@ -77,4 +77,5 @@
 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |  🟥 | 🟧 |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🟥 |
 | [수 찾기](https://www.acmicpc.net/problem/1920) | 🟥 |
-
+| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🟥 |
+| [토마토](https://www.acmicpc.net/problem/7576) | 
