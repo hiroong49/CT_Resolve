@@ -8,9 +8,9 @@
 | [2xn타일링2](https://www.acmicpc.net/problem/11727) | 🟥 | 🟧 |
 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | 🟥 | 🟧 |
 | [**쉬운 계단 수**](https://www.acmicpc.net/problem/10844) | 🟥 | 🟧 |
-| [오르막 수](https://www.acmicpc.net/problem/11057) |
-| [이친수](https://www.acmicpc.net/problem/2193) |
-| [스티커](https://www.acmicpc.net/problem/9465) |
+| [**오르막 수**](https://www.acmicpc.net/problem/11057) | 🟥 | 🟧 |
+| [이친수](https://www.acmicpc.net/problem/2193) | 🟥 | 🟧 |
+| [**스티커**](https://www.acmicpc.net/problem/9465) | 🟥 | 🟧 |
 | [포도주 시식](https://www.acmicpc.net/problem/2165) |
 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |
 | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |
