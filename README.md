@@ -11,9 +11,9 @@
 | [**오르막 수**](https://www.acmicpc.net/problem/11057) | 🟥 | 🟧 |
 | [이친수](https://www.acmicpc.net/problem/2193) | 🟥 | 🟧 |
 | [**스티커**](https://www.acmicpc.net/problem/9465) | 🟥 | 🟧 |
-| [포도주 시식](https://www.acmicpc.net/problem/2165) |
-| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |
-| [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |
+| [**포도주 시식**](https://www.acmicpc.net/problem/2156) | 🟥 | 🟧 |
+| [**가장 긴 증가하는 부분 수열**](https://www.acmicpc.net/problem/11053) | 🟥 | 🟧 |
+| [**가장 큰 증가하는 부분 수열**](https://www.acmicpc.net/problem/11055) | 🟥 | 🟧 |
 | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |
 | [연속합](https://www.acmicpc.net/problem/1912) |
