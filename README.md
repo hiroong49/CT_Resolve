@@ -14,8 +14,8 @@
 | [**포도주 시식**](https://www.acmicpc.net/problem/2156) | 🟥 | 🟧 |
 | [**가장 긴 증가하는 부분 수열**](https://www.acmicpc.net/problem/11053) | 🟥 | 🟧 |
 | [**가장 큰 증가하는 부분 수열**](https://www.acmicpc.net/problem/11055) | 🟥 | 🟧 |
-| [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
-| [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |
+| [**가장 긴 감소하는 부분 수열**](https://www.acmicpc.net/problem/11722) | 🟥 | 🟧 |
+| [**가장 긴 바이토닉 부분 수열**](https://www.acmicpc.net/problem/11054) | 🟥 | 🟧 |
 | [연속합](https://www.acmicpc.net/problem/1912) |
 | [계단 오르기](https://www.acmicpc.net/problem/2579) |
 | [제곱수의 합](https://www.acmicpc.net/problem/1699) |
@@ -79,3 +79,4 @@
 | [수 찾기](https://www.acmicpc.net/problem/1920) | 🟥 |
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🟥 |
 | [토마토](https://www.acmicpc.net/problem/7576) | 
+| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
