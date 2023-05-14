@@ -28,7 +28,7 @@
 | [좌표 정렬하기2](https://www.acmicpc.net/problem/11651) |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | 🟥 | 🟧 | 🟨 |
 | [**국영수**](https://www.acmicpc.net/problem/10825) | 🟥 | 🟧 |
-| [수 정렬하기3](https://www.acmicpc.net/problem/10989) |
+| [**수 정렬하기3**](https://www.acmicpc.net/problem/10989) | 🟥 | 🟧 |
 | [카드](https://www.acmicpc.net/problem/11652) |
 | [K번째 수](https://www.acmicpc.net/problem/11004) |
 | [스택](https://www.acmicpc.net/problem/10828) |
@@ -36,13 +36,13 @@
 | [쇠막대기](https://www.acmicpc.net/problem/10799) |
 | [큐](https://www.acmicpc.net/problem/10845) |
 | [덱](https://www.acmicpc.net/problem/10866) |
-| [알파벳 개수](https://www.acmicpc.net/problem/10808) |
-| [알파벳 찾기](https://www.acmicpc.net/problem/10809) |
-| [문자열 분석](https://www.acmicpc.net/problem/10820) |
-| [단어 길이 재기](https://www.acmicpc.net/problem/2743) |
-| [ROT13](https://www.acmicpc.net/problem/11655) |
-| [네 수](https://www.acmicpc.net/problem/10824) |
-| [접미사 배열](https://www.acmicpc.net/problem/11656) |
+| [알파벳 개수](https://www.acmicpc.net/problem/10808) | 🟥 | 🟧 | 🟨 |
+| [알파벳 찾기](https://www.acmicpc.net/problem/10809) | 🟥 | 🟧 |
+| [문자열 분석](https://www.acmicpc.net/problem/10820) | 🟥 | 🟧 |
+| [단어 길이 재기](https://www.acmicpc.net/problem/2743) | 🟥 | 🟧 |
+| [**ROT13**](https://www.acmicpc.net/problem/11655) | 🟥 | 🟧 |
+| [네 수](https://www.acmicpc.net/problem/10824) | 🟥 | 🟧 |
+| [접미사 배열](https://www.acmicpc.net/problem/11656) | 🟥 | 🟧 |
 | [에디터](https://www.acmicpc.net/problem/1406) |
 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) |
 | [나머지](https://www.acmicpc.net/problem/10430) |
