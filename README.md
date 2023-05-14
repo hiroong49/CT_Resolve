@@ -43,7 +43,7 @@
 | [**ROT13**](https://www.acmicpc.net/problem/11655) | 🟥 | 🟧 |
 | [네 수](https://www.acmicpc.net/problem/10824) | 🟥 | 🟧 |
 | [접미사 배열](https://www.acmicpc.net/problem/11656) | 🟥 | 🟧 |
-| [에디터](https://www.acmicpc.net/problem/1406) |
+| [**에디터**](https://www.acmicpc.net/problem/1406) | 🟥 | 🟧 |
 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) |
 | [나머지](https://www.acmicpc.net/problem/10430) |
 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |
