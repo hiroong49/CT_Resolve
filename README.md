@@ -74,9 +74,11 @@
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | 🟧 |
 | [바이러스](https://www.acmicpc.net/problem/2606) | 🟥 | 🟧 |
 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 🟥 | 🟧 |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) |  🟥 | 🟧 |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🟥 | 🟧 |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🟥 |
 | [수 찾기](https://www.acmicpc.net/problem/1920) | 🟥 |
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🟥 |
-| [토마토](https://www.acmicpc.net/problem/7576) | 
+| [차즈](https://www.acmicpc.net/problem/2636) | 🟥 | 
+| [토마토](https://www.acmicpc.net/problem/7576) | 🟥 |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+
