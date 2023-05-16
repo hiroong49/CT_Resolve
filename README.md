@@ -44,10 +44,10 @@
 | [네 수](https://www.acmicpc.net/problem/10824) | 🟥 | 🟧 |
 | [접미사 배열](https://www.acmicpc.net/problem/11656) | 🟥 | 🟧 |
 | [**에디터**](https://www.acmicpc.net/problem/1406) | 🟥 | 🟧 |
-| [요세푸스 문제](https://www.acmicpc.net/problem/1158) |
-| [나머지](https://www.acmicpc.net/problem/10430) |
-| [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |
-| [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) |
+| [**요세푸스 문제**](https://www.acmicpc.net/problem/1158) | 🟥 | 🟧 |
+| [나머지](https://www.acmicpc.net/problem/10430) | 🟥 | 🟧 | 🟨 |
+| [**최대공약수와 최소공배수**](https://www.acmicpc.net/problem/2609) | 🟥 | 🟧 |
+| [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | 🟥 | 🟧 |
 | [농구 경기](https://www.acmicpc.net/problem/1159) |
 | [트럭 주차](https://www.acmicpc.net/problem/2979) |
 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) |
@@ -80,5 +80,5 @@
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🟥 |
 | [차즈](https://www.acmicpc.net/problem/2636) | 🟥 | 
 | [토마토](https://www.acmicpc.net/problem/7576) | 🟥 |
-| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🟥 |
 
