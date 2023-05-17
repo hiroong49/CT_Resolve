@@ -81,4 +81,4 @@
 | [차즈](https://www.acmicpc.net/problem/2636) | 🟥 | 
 | [토마토](https://www.acmicpc.net/problem/7576) | 🟥 |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🟥 |
-
+| [쿼드트리](https://www.acmicpc.net/problem/1992) |
