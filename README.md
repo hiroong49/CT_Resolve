@@ -51,9 +51,9 @@
 | [**농구 경기**](https://www.acmicpc.net/problem/1159) | 🟥 | 🟧 |
 | [트럭 주차](https://www.acmicpc.net/problem/2979) | 🟥 | 🟧 |
 | [**한국이 그리울 땐 서버에 접속하지**](https://www.acmicpc.net/problem/9996) | 🟥 | 🟧 |
-| [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |
-| [좋은 단어](https://www.acmicpc.net/problem/3986) |
-| [벌집](https://www.acmicpc.net/problem/2292) |
+| [**나는야 포켓몬 마스터 이다솜**](https://www.acmicpc.net/problem/1620) | 🟥 | 🟧 |
+| [좋은 단어](https://www.acmicpc.net/problem/3986) | 🟥 | 🟧 | 🟨 |
+| [벌집](https://www.acmicpc.net/problem/2292) | 🟥 | 🟧 | 🟨 |
 | [시험 감독](https://www.acmicpc.net/problem/13458) |
 | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) |
 | [기상캐스터](https://www.acmicpc.net/problem/10709) |
@@ -81,4 +81,6 @@
 | [차즈](https://www.acmicpc.net/problem/2636) | 🟥 | 
 | [토마토](https://www.acmicpc.net/problem/7576) | 🟥 |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🟥 |
-| [쿼드트리](https://www.acmicpc.net/problem/1992) |
+| [쿼드트리](https://www.acmicpc.net/problem/1992) | 🟥 |
+| [수열](https://www.acmicpc.net/problem/2559) | 🟥 |
+| []() |
