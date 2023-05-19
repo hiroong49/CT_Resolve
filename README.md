@@ -54,9 +54,9 @@
 | [**나는야 포켓몬 마스터 이다솜**](https://www.acmicpc.net/problem/1620) | 🟥 | 🟧 |
 | [좋은 단어](https://www.acmicpc.net/problem/3986) | 🟥 | 🟧 | 🟨 |
 | [벌집](https://www.acmicpc.net/problem/2292) | 🟥 | 🟧 | 🟨 |
-| [시험 감독](https://www.acmicpc.net/problem/13458) |
-| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) |
-| [기상캐스터](https://www.acmicpc.net/problem/10709) |
+| [시험 감독](https://www.acmicpc.net/problem/13458) | 🟥 | 🟧 | 🟨 |
+| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🟥 | 🟧 | 🟨 |
+| [기상캐스터](https://www.acmicpc.net/problem/10709) | 🟥 | 🟧 | 🟨 |
 | [분수 찾기](https://www.acmicpc.net/problem/1193) |
 | [손익분기점](https://www.acmicpc.net/problem/1712) |
 | [공](https://www.acmicpc.net/problem/1547) |
