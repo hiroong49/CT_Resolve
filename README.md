@@ -63,9 +63,9 @@
 | [ATM](https://www.acmicpc.net/problem/11399) | 🟥 | 🟧 |
 | [**단어 정렬**](https://www.acmicpc.net/problem/1181) | 🟥 | 🟧 |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | 🟥 | 🟧 | 🟨 |
-| [수학숙제](https://www.acmicpc.net/problem/2870) |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) |
-| [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) |
+| [**수학숙제**](https://www.acmicpc.net/problem/2870) | 🟥 | 🟧 |
+| [**팰린드롬 만들기**](https://www.acmicpc.net/problem/1213) | 🟥 | 🟧 |
+| [**파스칼의 삼각형**](https://www.acmicpc.net/problem/16395) | 🟥 | 🟧 |
 | [블랙잭](https://www.acmicpc.net/problem/2798) |
 | [프린터 큐](https://www.acmicpc.net/problem/1966) | 
 | [NBA 농구](https://www.acmicpc.net/problem/2852) |
@@ -83,4 +83,5 @@
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🟥 |
 | [쿼드트리](https://www.acmicpc.net/problem/1992) | 🟥 |
 | [수열](https://www.acmicpc.net/problem/2559) | 🟥 |
+| [**로봇 청소기**](https://www.acmicpc.net/problem/14503) | 🟥 |
 | []() |
