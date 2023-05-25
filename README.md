@@ -66,8 +66,8 @@
 | [**수학숙제**](https://www.acmicpc.net/problem/2870) | 🟥 | 🟧 |
 | [**팰린드롬 만들기**](https://www.acmicpc.net/problem/1213) | 🟥 | 🟧 |
 | [**파스칼의 삼각형**](https://www.acmicpc.net/problem/16395) | 🟥 | 🟧 |
-| [블랙잭](https://www.acmicpc.net/problem/2798) |
-| [프린터 큐](https://www.acmicpc.net/problem/1966) | 
+| [블랙잭](https://www.acmicpc.net/problem/2798) | 🟥 | 🟧 |
+| [**프린터 큐**](https://www.acmicpc.net/problem/1966) | 🟥 | 🟧 | 🟨 |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) |
 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | | | |
 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | | |
