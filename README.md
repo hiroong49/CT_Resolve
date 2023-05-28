@@ -68,9 +68,9 @@
 | [**파스칼의 삼각형**](https://www.acmicpc.net/problem/16395) | 🟥 | 🟧 |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | 🟥 | 🟧 |
 | [**프린터 큐**](https://www.acmicpc.net/problem/1966) | 🟥 | 🟧 | 🟨 |
-| [NBA 농구](https://www.acmicpc.net/problem/2852) |
-| [사과 담기 게임](https://www.acmicpc.net/problem/2828) | | | |
-| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | | |
+| [**NBA 농구**](https://www.acmicpc.net/problem/2852) | 🟥 | 🟧 |
+| [**사과 담기 게임**](https://www.acmicpc.net/problem/2828) | 🟥 | 🟧 |
+| [**달팽이는 올라가고 싶다**](https://www.acmicpc.net/problem/2869) | 🟥 | 🟧 |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🟥 | 🟧 |
 | [바이러스](https://www.acmicpc.net/problem/2606) | 🟥 | 🟧 |
 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 🟥 | 🟧 |
