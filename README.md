@@ -18,10 +18,10 @@
 | [**가장 긴 바이토닉 부분 수열**](https://www.acmicpc.net/problem/11054) | 🟥 | 🟧 |
 | [**연속합**](https://www.acmicpc.net/problem/1912) | 🟥 | 🟧 |
 | [**계단 오르기**](https://www.acmicpc.net/problem/2579) | 🟥 | 🟧 |
-| [제곱수의 합](https://www.acmicpc.net/problem/1699) |
-| [타일 채우기](https://www.acmicpc.net/problem/2133) |
-| [파도반 수열](https://www.acmicpc.net/problem/9461) |
-| [합분해](https://www.acmicpc.net/problem/2225) |
+| [**제곱수의 합**](https://www.acmicpc.net/problem/1699) | 🟥 | 🟧 |
+| [**타일 채우기**](https://www.acmicpc.net/problem/2133) | 🟥 | 🟧 |
+| [파도반 수열](https://www.acmicpc.net/problem/9461) | 🟥 | 🟧 |
+| [**합분해**](https://www.acmicpc.net/problem/2225) | 🟥 | 🟧 |
 | [암호 코드](https://www.acmicpc.net/problem/2011) |
 | [카드 구매하기](https://www.acmicpc.net/problem/11052) |
 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) |
