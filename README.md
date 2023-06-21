@@ -84,4 +84,5 @@
 | [쿼드트리](https://www.acmicpc.net/problem/1992) | 🟥 |
 | [수열](https://www.acmicpc.net/problem/2559) | 🟥 |
 | [**로봇 청소기**](https://www.acmicpc.net/problem/14503) | 🟥 |
+| [**숨바꼭질**](https://www.acmicpc.net/problem/1697) | 🟥 |
 | []() |
