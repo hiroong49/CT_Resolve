@@ -85,4 +85,4 @@
 | [수열](https://www.acmicpc.net/problem/2559) | 🟥 |
 | [**로봇 청소기**](https://www.acmicpc.net/problem/14503) | 🟥 |
 | [**숨바꼭질**](https://www.acmicpc.net/problem/1697) | 🟥 |
-| []() |
+| [나이트의 이동](https://www.acmicpc.net/problem/7562) | 🟥 | 🟧 |
