@@ -86,3 +86,7 @@
 | [**로봇 청소기**](https://www.acmicpc.net/problem/14503) | 🟥 |
 | [**숨바꼭질**](https://www.acmicpc.net/problem/1697) | 🟥 |
 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | 🟥 | 🟧 |
+| [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 🟥 | 🟧 |
+| [**토마토**](https://www.acmicpc.net/problem/7569) | 🟥 | 🟧 |
+| []() |
+| []() |
