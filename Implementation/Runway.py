@@ -1,4 +1,4 @@
-
+# https://www.acmicpc.net/problem/14890
 
 n, l = map(int, input().split())
 runway = [list(map(int, input().split())) for _ in range(n)]
