@@ -88,5 +88,9 @@
 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | 🟥 | 🟧 |
 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 🟥 | 🟧 |
 | [**토마토**](https://www.acmicpc.net/problem/7569) | 🟥 | 🟧 |
+| [**이분 그래프**](https://www.acmicpc.net/problem/1707) | 🟥 | 🟧 |
+| [**촌수 계산**](https://www.acmicpc.net/problem/2644) | 🟥 | 🟧 |
+| []() |
+| []() |
 | []() |
 | []() |
